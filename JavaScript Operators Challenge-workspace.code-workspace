@@ -1,0 +1,18 @@
+{
+    "folders": [
+        {
+            "path": "../testing with jest"
+        }
+    ],
+    "settings": {
+        "terminal.integrated.allowedLinkSchemes": [
+            "file",
+            "http",
+            "https",
+            "mailto",
+            "vscode",
+            "vscode-insiders",
+            ""
+        ]
+    }
+}
